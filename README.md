@@ -2,8 +2,7 @@
 
 <br />
 
-> [!TIP]
-> **I'm definitely the developer you're looking for 😉**
+> [!TIP] > **I'm definitely the developer you're looking for 😉**
 
 <!-- # **<p align="center">I'm definitely the developer you're looking for 😉</p>** -->
 
@@ -28,24 +27,22 @@
 <br/>
 <br/>
 
-| <a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buezrico&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Buezrico's's github stats" /></a> | <a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buezrico&layout=compact&theme=buefy&hide_border=false" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buezrico&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Buezrico's's github stats" /></a> | <a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buezrico&layout=compact&theme=buefy&hide_border=true" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### **Top Public Repos**
 
 > [!NOTE] > **The best Repos are Private 😉**
 
-<pre>
-<a href="https://github.com/buezrico/ricomart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=ricomart" />
-</a>   <a href="https://github.com/buezrico/getlinked">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=getlinked" />
-</a>   <a href="https://github.com/buezrico/uber-eats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=uber-eats" />
-</a>   <a href="https://github.com/buezrico/afc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=afc" />
-</a>
-</pre>
+| <a href="https://github.com/buezrico/ricomart"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=ricomart" /></a> | <a href="https://github.com/buezrico/getlinked"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=getlinked" />
+</a> | <a href="https://github.com/buezrico/uber-eats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=uber-eats" />
+</a> | <a href="https://github.com/buezrico/afc">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=afc" />
+</a> |
+
+| <a href="https://github.com/buezrico/ricomart"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=ricomart&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/buezrico/getlinked"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=getlinked" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- <br />
 <br /> -->
