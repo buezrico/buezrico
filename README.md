@@ -33,7 +33,7 @@
 ### **TOOLS I'M FAMILIAR WITH**
 
 <a href="https://github.com/buezrico/buezrico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=buezrico.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=buezrico.github.io" />
 </a>
 <a href="https://github.com/buezrico/afc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=afc.github.io&theme=buefy" />
