@@ -1,4 +1,4 @@
-<p align="center"><a href="https://buezrico.vercel.app"><img width="80%" alt="Hello, I'm Buez Rico!" src="./images/profile.jpg" /></a></p>
+<img width="80%" alt="Hello, I'm Buez Rico!" src="images/profile.jpg" />
 
 <br />
 
