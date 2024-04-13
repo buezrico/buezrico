@@ -34,7 +34,7 @@
 
 > [!NOTE] > **The best Repos are Private 😉**
 
-<a href="https://github.com/buezrico/ricomart"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=ricomart" /></a> <a href="https://github.com/buezrico/getlinked"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=getlinked" />
+<a href="https://github.com/buezrico/ricomart"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=ricomart&layout=compact&theme=buefy&hide_border=true" /></a> <a href="https://github.com/buezrico/getlinked"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=getlinked&layout=compact&theme=buefy&hide_border=true" />
 </a> <a href="https://github.com/buezrico/uber-eats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=uber-eats" />
 </a> <a href="https://github.com/buezrico/afc">
