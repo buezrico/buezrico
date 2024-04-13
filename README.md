@@ -1,4 +1,4 @@
-<p align="center"><a href="https://buezrico.vercel.app"><img width="80%" alt="Hello, I'm Buez Rico!" src="./profile.jpg" /></a></p>
+<p align="center"><a href="https://buezrico.vercel.app"><img width="80%" alt="Hello, I'm Buez Rico!" src="./images/profile.jpg" /></a></p>
 
 <br />
 
@@ -33,9 +33,9 @@ And I might be the developer you're looking for 😉
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=buezrico.github.io&theme=buefy" />
 </a> -->
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
-<a href="https://twitter.com/buez_rico">
+<!-- <a href="https://twitter.com/buez_rico">
   <img align="right" alt="buezrico | Twitter" width="21px" src="https://raw.githubusercontent.com/buezrico/buezrico/master/assets/twitter.svg" />
-</a>
+</a> -->
