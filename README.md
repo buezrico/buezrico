@@ -2,7 +2,8 @@
 
 <br />
 
-> [!TIP] > \*\*I'm definitely the developer you're looking for 😉
+> [!TIP]
+> **I'm definitely the developer you're looking for 😉**
 
 <!-- # **<p align="center">I'm definitely the developer you're looking for 😉</p>** -->
 
