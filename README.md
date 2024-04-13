@@ -2,7 +2,7 @@
 
 <br />
 
-<p style="color: red;">And I might be the developer you're looking for 😉</p>
+<p align="center">**And I might be the developer you're looking for 😉**</p>
 
 **About me**
 
