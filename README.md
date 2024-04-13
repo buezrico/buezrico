@@ -11,11 +11,11 @@
 
 ### - 💼 Web Developer | Frontend Enthusiast | Creative Coder.
 
-### - 📈 I'm a passionate web developer with a love for clean code and intuitive user interfaces
+### - 📈 With a flair for clean code and intuitive user interfaces, I'm dedicated to crafting seamless digital experiences.
 
-### - ❤️ I am on a mission to craft exceptional digital solutions that leave a lasting impression.
+### - 💬 Let's dive into web development, frontend technologies, or anything else you're curious about — I'm all ears!.
 
-### - 💬 Ask me about anything [here](https://github.com/buezrico/buezrico/issues)
+### - 👨‍🏫 Passionate about sharing knowledge, I also teach coding to empower others in their journey.
 
 <br/>
 <br/>
