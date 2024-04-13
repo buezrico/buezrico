@@ -2,7 +2,7 @@
 
 <br />
 
-> [# **!TIP**]
+> [**!TIP**]
 >
 > # **I'm definitely the developer you're looking for 😉**
 
