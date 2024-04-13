@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Buez Rico!" src="https://pbs.twimg.com/profile_banners/925802270968762368/1676602798/1080x360" /></p>
+<img width="100%" alt="Hello, I'm Buez Rico!" src="https://pbs.twimg.com/profile_banners/925802270968762368/1676602798/1080x360" />
 
 <br />
 
