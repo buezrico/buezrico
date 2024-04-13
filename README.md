@@ -2,9 +2,9 @@
 
 <br />
 
-> [!TIP]
+> [# **!TIP**]
 >
-> # **<p align="center">I'm definitely the developer you're looking for 😉</p>**
+> # **I'm definitely the developer you're looking for 😉**
 
 <!-- # **<p align="center">I'm definitely the developer you're looking for 😉</p>** -->
 
