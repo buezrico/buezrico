@@ -4,15 +4,19 @@
 
 # **<p align="center">I'm definitely the developer you're looking for 😉</p>**
 
-**About me**
+###**About me**
 
-- 💼 Web Developer | Frontend Enthusiast | Creative Coder.
+###### - 💼 Web Developer | Frontend Enthusiast | Creative Coder.
 
-- 📈 I'm a passionate web developer with a love for clean code and intuitive user interfaces
+##### - 📈 I'm a passionate web developer with a love for clean code and intuitive user interfaces
 
-- ❤️ I am on a mission to craft exceptional digital solutions that leave a lasting impression.
+##### - ❤️ I am on a mission to craft exceptional digital solutions that leave a lasting impression.
 
-- 💬 Ask me about anything [here](https://github.com/buezrico/buezrico/issues)
+##### - 💬 Ask me about anything [here](https://github.com/buezrico/buezrico/issues)
+
+<br/>
+<br/>
+<br/>
 
 <p align="center">
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
