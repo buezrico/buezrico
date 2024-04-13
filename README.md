@@ -2,8 +2,7 @@
 
 <br />
 
-> [!TIP]
-> **I'm definitely the developer you're looking for 😉**
+> [!TIP] > **I'm definitely the developer you're looking for 😉**
 
 <!-- # **<p align="center">I'm definitely the developer you're looking for 😉</p>** -->
 
@@ -33,16 +32,16 @@
 
 #### **Top Public Repos**
 
-> [!TIP]
+> [!INFO]
 > **The best Repos are Private 😉**
 
 <a href="https://github.com/buezrico/ricomart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=ricomart" />
-</a><a href="https://github.com/buezrico/getlinked">
+</a>   <a href="https://github.com/buezrico/getlinked">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=getlinked" />
-</a><a href="https://github.com/buezrico/uber-eats">
+</a>   <a href="https://github.com/buezrico/uber-eats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=uber-eats" />
-</a><a href="https://github.com/buezrico/afc">
+</a>   <a href="https://github.com/buezrico/afc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=afc" />
 </a>
 
