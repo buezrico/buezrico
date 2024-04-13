@@ -27,16 +27,17 @@
 <br/>
 <br/>
 
-<a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buezrico&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Buezrico's's github stats" /></a> <a href="https://github.com/buezrico/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buezrico&layout=compact&theme=buefy&hide_border=false" /></a>
+| <a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buezrico&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Buezrico's's github stats" /></a> | <a href="https://github.com/buezrico/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buezrico&layout=compact&theme=buefy&hide_border=false" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- #### Top Repositories
+### **TOOLS I'M FAMILIAR WITH**
 
-<a href="https://github.com/buezrico/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/buezrico/buezrico.github.io">
+<a href="https://github.com/buezrico/buezrico">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=buezrico.github.io&theme=buefy" />
-</a> -->
+</a>
+<a href="https://github.com/buezrico/afc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buezrico&repo=afc.github.io&theme=buefy" />
+</a>
 
 <!-- <br />
 <br /> -->
