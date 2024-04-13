@@ -9,13 +9,13 @@
 
 ### **ABOUT ME**
 
-#### 💼 Web Developer | Frontend Enthusiast | Creative Coder.
+**- 💼 Web Developer | Frontend Enthusiast | Creative Coder.**
 
-#### 📈 With a flair for clean code and intuitive user interfaces, I'm dedicated to crafting seamless digital experiences.
+**- 📈 With a flair for clean code and intuitive user interfaces, I'm dedicated to crafting seamless digital experiences.**
 
-#### 💬 Let's dive into web development, frontend technologies, or anything else you're curious about — I'm all ears!.
+**- 💬 Let's dive into web development, frontend technologies, or anything else you're curious about — I'm all ears!.**
 
-#### 👨‍🏫 Passionate about sharing knowledge, I also teach coding to empower others in their journey.
+**- 👨‍🏫 Passionate about sharing knowledge, I also teach coding to empower others in their journey.**
 
 <br/>
 <br/>
