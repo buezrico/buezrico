@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-| <a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buezrico&show_icons=true&include_all_commits=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Buezrico's's github stats" /></a> | <a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buezrico&layout=compact&theme=buefy&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> |
+| <a href="https://github.com/buezrico/buezrico"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buezrico&layout=compact&theme=buefy&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 **Top Public Repos**
