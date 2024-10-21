@@ -10,14 +10,14 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="max-width: '300px'; text-align: center;">
+  <div style="flex: 1; max-width: '300px'; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=buezrico&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: '100%';" />
   </div>
-  <div style="max-width: '300px'; text-align: center;">
+  <div style="flex: 1; max-width: '300px'; text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=buezrico&theme=dark&hide_border=false" alt="GitHub Streak" style="width: '100%';" />
   </div>
-  <div style="max-width: 300px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buezrico&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%;" />
+  <div style="flex: 1; max-width: '300px'; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buezrico&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: '100%';" />
   </div>
 </div>
 
