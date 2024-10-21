@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m a passionate developer focused on building engaging web applications and innovative solutions. I specialize in full-stack development using technologies like Next.js, TypeScript, and Redis, with a knack for integrating real-time features and scalable platforms. I love creating games, community platforms, and solutions that connect users while maintaining performance and simplicity.<br><br>Let’s build something awesome together!
+👋 Hi, I’m a passionate developer focused on building engaging web applications and innovative solutions. I specialize in full-stack development using technologies like Next.js, TypeScript, Prisma, and Redis, with a knack for integrating real-time features and scalable platforms. I love creating games, community platforms, and solutions that connect users while maintaining performance and simplicity.<br><br>Let’s build something awesome together!
 
 
 ## 🌐 Socials:
